@@ -2,7 +2,7 @@ package com.hexa.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-//prog
+//progs
 @Component
 public class Address {
 	//@Value("216")
